@@ -1,4 +1,4 @@
-# Beverage Sales Forecasting — MicroGCC Assessment
+# Beverage Sales Forecasting Project
 
 ## Problem Statement
 Predict the next 8 weeks of beverage sales for 43 US states using historical weekly data (2019–2023).
